@@ -1,4 +1,4 @@
-# ANeuralFuzzyController
+# A Neural Fuzzy Controller
 This is my PhD Dissertation. The long title is "STABILITY ENHANCEMENT OF MULTI-MACHINE POWER SYSTEMS
 BY HYBRID NEURAL FUZZY-LOGIC CONTROL"
 There is a software tool written in FORTRAN producing the simulation results. The project was supported partially by SaskPower, the Provincial Utility of Saskatchewan.
